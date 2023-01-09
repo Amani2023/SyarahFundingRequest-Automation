@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Suite" verbose="2">
+   <test thread-count="2" name="Write new post">
+    <classes>
+      <class name="com.syarah.web.services.SubmitFund"/>
+    </classes>
+  </test>
+</suite>
